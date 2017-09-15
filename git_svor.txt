@@ -18,3 +18,5 @@ Git spurningar og svör
 	a) git diff                   svar: sýnir breyting a skjalinu
 	b) git diff --staged          svar: sýnur breytingu á staged hlutum
 	c) git diff commit1 commit    svar: sýnir munin á tveim commits
+
+4. 	Hvað er útgáfustýring (e.version control)?
