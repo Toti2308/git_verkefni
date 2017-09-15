@@ -24,3 +24,5 @@ Git spurningar og svör
 5.	Hverjir eru helstu kostir við að nota GIT?
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+svar: eins oft og maður vill, nema það sé eitthvað sérstakt og má ekki eyðast eða maður vil eiga margar gerðir af einhvrju
+
