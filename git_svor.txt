@@ -6,3 +6,10 @@ Git spurningar og svör
 	ls        svar: "list files" sýnir skrár og skjöl
 	pwd       svar: "Print Working Directory" sýnir í hvaða drifi maður er í
 	mkdir     svar: "Make Directory" búa til önnur Skrá
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
