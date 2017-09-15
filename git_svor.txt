@@ -19,4 +19,5 @@ Git spurningar og svör
 	b) git diff --staged          svar: sýnur breytingu á staged hlutum
 	c) git diff commit1 commit    svar: sýnir munin á tveim commits
 
-4. 	Hvað er útgáfustýring (e.version control)?
+4. 	Hvað er útgáfustýring (e.version control)?  svar: leyfir manni að skoða og breyta öðrum útgáfum af skjölum eða örðum hlutum, eins og git leyfir manni að gera
+
