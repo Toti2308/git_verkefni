@@ -21,3 +21,4 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)?  svar: leyfir manni að skoða og breyta öðrum útgáfum af skjölum eða örðum hlutum, eins og git leyfir manni að gera
 
+5.	Hverjir eru helstu kostir við að nota GIT?
