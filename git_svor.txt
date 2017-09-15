@@ -8,8 +8,8 @@ Git spurningar og svör
 	mkdir     svar: "Make Directory" búa til önnur Skrá
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	git clone     svar: Klónar gleymslu í skrá á tölvu
+	git log       svar: til að sjá allar skráningar
+	git status    svar: sér hvort skjal eða eitthvað hefur breyst áður en þú committar
+	git diff      svar: sýnir breytingu á commits
+	git checkout  svar: til að velja aðrar útgáfur
