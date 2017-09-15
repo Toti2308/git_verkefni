@@ -15,6 +15,6 @@ Git spurningar og svör
 	git checkout  svar: til að velja aðrar útgáfur
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff                   svar: sýnir breyting a skjalinu
+	b) git diff --staged          svar: sýnur breytingu á staged hlutum
+	c) git diff commit1 commit    svar: sýnir munin á tveim commits
