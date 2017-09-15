@@ -33,3 +33,5 @@ svar: "Working Directory" er skráinn sem þú ert í, "Staging Area" er skrá s
 
 9.	Hver fann upp GIT?
 svar: Linus Torvalds fann upp GIT
+
+10.	Hvar er GIT helst notað?
