@@ -27,3 +27,4 @@ Git spurningar og svör
 svar: eins oft og maður vill, nema það sé eitthvað sérstakt og má ekki eyðast eða maður vil eiga margar gerðir af einhvrju
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+svar: "Working Directory" er skráinn sem þú ert í, "Staging Area" er skrá sem inniheldur upplýsingar um næsta commit og "Repository" er staður sem geymir skjöl
