@@ -1,8 +1,8 @@
 Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd        
-	cd ~      
-	ls        
-	pwd       
-	mkdir     
+	cd        svar: "Change Directory" leyfir manni að færa sig úr Skrá yfir í aðra
+	cd ~      svar: ~ er heima skráin
+	ls        svar: "list files" sýnir skrár og skjöl
+	pwd       svar: "Print Working Directory" sýnir í hvaða drifi maður er í
+	mkdir     svar: "Make Directory" búa til önnur Skrá
