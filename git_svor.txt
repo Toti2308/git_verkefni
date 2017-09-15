@@ -13,3 +13,8 @@ Git spurningar og svör
 	git status    svar: sér hvort skjal eða eitthvað hefur breyst áður en þú committar
 	git diff      svar: sýnir breytingu á commits
 	git checkout  svar: til að velja aðrar útgáfur
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
